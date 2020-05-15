@@ -1,0 +1,15 @@
+{
+  "name": "hikka",
+  "version": "2.2.1",
+  "description": "A cool bot for a hot person",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "111"
+  },
+  "author": "Toby",
+  "license": "ISC"
+}
